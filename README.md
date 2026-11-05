@@ -234,15 +234,6 @@ An e-commerce solution specialized in mobile phones and accessories.
 
 ## 📊 GITHUB ANALYTICS
 
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-### GitHub Statistics
-
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="90%" />
-
 ### Most Used Languages
 
 <img src="./profile/top-langs.svg" alt="Most Used Languages" width="70%" />
