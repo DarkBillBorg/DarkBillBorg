@@ -234,15 +234,25 @@ An e-commerce solution specialized in mobile phones and accessories.
 
 ## 📊 GITHUB ANALYTICS
 
+
+## 📊 GITHUB ANALYTICS
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarkBillBorg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+### GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBillBorg&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=DarkBillBorg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=DarkBillBorg&theme=tokyonight&hide_border=true" />
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBillBorg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=DarkBillBorg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
